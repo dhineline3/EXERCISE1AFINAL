@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1AFinal", "Exercise1AFinal\Exercise1AFinal.csproj", "{2E6DE08D-1B9F-49BB-803B-21D850487A77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCircumferenceOfACircle", "Exercise1AFinal\AreaCircumferenceOfACircle.csproj", "{2E6DE08D-1B9F-49BB-803B-21D850487A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfATriangle", "AreaOfATriangle\AreaOfATriangle.csproj", "{82CA1206-27E4-4669-A5D7-77E680C4F3FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeOfAHemisphere", "VolumeOfAHemisphere\VolumeOfAHemisphere.csproj", "{D4E1C461-861E-4131-A92E-D99420E32B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticFormula", "QuadraticFormula\QuadraticFormula.csproj", "{198FA802-8AEB-419C-913F-B6A3D54B74B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{2E6DE08D-1B9F-49BB-803B-21D850487A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E6DE08D-1B9F-49BB-803B-21D850487A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E6DE08D-1B9F-49BB-803B-21D850487A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CA1206-27E4-4669-A5D7-77E680C4F3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CA1206-27E4-4669-A5D7-77E680C4F3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CA1206-27E4-4669-A5D7-77E680C4F3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CA1206-27E4-4669-A5D7-77E680C4F3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E1C461-861E-4131-A92E-D99420E32B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E1C461-861E-4131-A92E-D99420E32B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E1C461-861E-4131-A92E-D99420E32B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E1C461-861E-4131-A92E-D99420E32B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198FA802-8AEB-419C-913F-B6A3D54B74B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198FA802-8AEB-419C-913F-B6A3D54B74B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198FA802-8AEB-419C-913F-B6A3D54B74B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198FA802-8AEB-419C-913F-B6A3D54B74B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
